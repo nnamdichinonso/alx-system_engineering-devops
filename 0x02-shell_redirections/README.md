@@ -5,3 +5,4 @@ Task3: To display content of two files
 Task4: To display the last 10 lines of a file
 Task5: To display the first 10 lines of a file
 Task6: A script that displays the third line of a file
+Task7: A script that creates a  file containing a text
