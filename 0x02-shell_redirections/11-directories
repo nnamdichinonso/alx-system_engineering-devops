@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d -not '.' | wc -l
+echo '#!/bin/bash' > 11-directories
+echo 'find -mindepth 1 -type d | wc -1' >> 11-directories
